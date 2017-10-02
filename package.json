@@ -1,0 +1,22 @@
+{
+  "name": "slackboot",
+  "version": "0.0.1",
+  "description": "Slack boot for dineralt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supersabbath/slack-boot.git"
+  },
+  "author": "Fer Canon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supersabbath/slack-boot/issues"
+  },
+  "homepage": "https://github.com/supersabbath/slack-boot#readme",
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  }
+}
